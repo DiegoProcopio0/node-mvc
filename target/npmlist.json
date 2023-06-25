@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"1_estrutura","dependencies":{"bootstrap-icons":{"version":"1.10.5"},"express-handlebars":{"version":"5.3.3"},"express":{"version":"4.17.1"},"mysql2":{"version":"2.3.0"},"nodemon":{"version":"2.0.12"},"sequelize":{"version":"6.6.5"}}}
